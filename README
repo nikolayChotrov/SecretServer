@@ -1,1 +1,13 @@
-Hello
+                                                      Hello to my simple app
+                                                      
+       The app is simple and needs some cleaning on the code becase moast of the code is in the files but for 2 hours of work it is 
+       good.
+                                                      
+                            How to install it:
+                            1. cloan it or download a zip 
+                            2. run npm i in the /clien and in root 
+                            3. in root run nodemon app.js
+                            4. in /client run npm run serve
+                            
+                            
+                            open the localhoast and have fun.
